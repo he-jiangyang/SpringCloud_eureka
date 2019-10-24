@@ -10,7 +10,7 @@ public class EClientApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(EClientApplication.class, args);
-        System.out.println("ヾ(◍°∇°◍)ﾉﾞ    localhost启动成功      ヾ(◍°∇°◍)ﾉﾞ\n");
+        System.out.println("ヾ(◍°∇°◍)ﾉﾞ  localhost启动成功      ヾ(◍°∇°◍)ﾉﾞ\n");
     }
 
 }
